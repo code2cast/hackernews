@@ -1,0 +1,95 @@
+{
+  "title": "HN Daily Digest - April 16, 2026: Cal.com Drama & IPv6 Finally Hits 50%",
+  "description": "Your daily dose of Hacker News drama! Today: Cal.com goes closed source citing AI security (352 points, spicy comments), IPv6 finally crosses 50% but GitHub still doesn't support it, plus Cloudflare's new AI platform and more.",
+  "segments": [
+    {
+      "speaker": "Alex",
+      "text": "Welcome to HN Daily Digest! I'm Alex, and today's front page is absolutely wild. Cal.com just announced they're going closed source because of AI security concerns, and the HN community is NOT having it."
+    },
+    {
+      "speaker": "Sam",
+      "text": "Wait, they're blaming AI for going closed source? That sounds like the 2026 version of 'the dog ate my homework.'"
+    },
+    {
+      "speaker": "Alex",
+      "text": "352 points, 276 comments, and basically everyone's calling BS. They claim AI can now systematically scan open source code for vulnerabilities, so they're closing up shop. But one commenter absolutely destroyed them. Quote:"
+    },
+    {
+      "speaker": "Commenter",
+      "text": "An app like Cal.com can be vibe coded in a few evenings with a Chrome MCP server pointed to their website to figure out all the nooks and crannys."
+    },
+    {
+      "speaker": "Sam",
+      "text": "Oh wow. Cold but probably true. If AI can clone your app in a few evenings, maybe your moat isn't the code—it's something else entirely."
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly! And speaking of things that should've happened years ago—IPv6 traffic just crossed the 50% mark according to Google's data. 511 points on HN."
+    },
+    {
+      "speaker": "Sam",
+      "text": "Finally! Only took what, like 30 years? But let me guess—GitHub still doesn't support IPv6?"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Bingo! Top comment goes:"
+    },
+    {
+      "speaker": "Commenter",
+      "text": "And still, in the year of our lord 2026, GitHub does not support IPv6."
+    },
+    {
+      "speaker": "Sam",
+      "text": "I mean, it's Microsoft. They've been pushing IPv6 on their corporate networks for almost a decade, but GitHub? Nah, we're good with IPv4 forever apparently."
+    },
+    {
+      "speaker": "Alex",
+      "text": "Plot twist though—Thunderbird's team jumped into that Cal.com thread to announce their scheduling tool will ALWAYS be open source. Quote:"
+    },
+    {
+      "speaker": "Commenter",
+      "text": "Come talk to us and build with us. We'll help you replace Cal.com."
+    },
+    {
+      "speaker": "Sam",
+      "text": "That's some quality opportunistic marketing right there. Strike while the iron's hot!"
+    },
+    {
+      "speaker": "Alex",
+      "text": "Meanwhile, Cloudflare launched an AI inference platform designed specifically for agents. Much less drama, only 57 points, but honestly more interesting tech-wise."
+    },
+    {
+      "speaker": "Sam",
+      "text": "Yeah, everyone's building AI agent infrastructure now. Though after the Cal.com drama, I'm starting to wonder if we should be worried about AI agents scanning everyone's code for vulnerabilities."
+    },
+    {
+      "speaker": "Alex",
+      "text": "The security debate is fascinating. Some folks argue open source will be MORE secure because you can pool resources to audit code. Others think we're entering an AI arms race where security becomes pure proof-of-work—whoever spends more tokens wins."
+    },
+    {
+      "speaker": "Sam",
+      "text": "That's terrifying and probably accurate. Also making news—Apple's pushing their highest ever recycled materials in new products, and someone built ChatGPT for Excel. Because apparently we needed AI in spreadsheets too."
+    },
+    {
+      "speaker": "Alex",
+      "text": "Quick hits: North American English dialects are trending, someone made a new terminal pager, and there's a 90-minute guide to modern microprocessors that's getting love. Classic HN mix of drama and deep tech."
+    },
+    {
+      "speaker": "Sam",
+      "text": "But seriously, that Cal.com thread is a masterclass in how NOT to handle a major business pivot. The security argument might be valid, but the execution? Chef's kiss of disaster."
+    },
+    {
+      "speaker": "Alex",
+      "text": "That's today's HN Daily Digest. Tomorrow we'll see if Cal.com walks back their decision or doubles down. I'm betting on doubling down. I'm Alex—"
+    },
+    {
+      "speaker": "Sam",
+      "text": "And I'm Sam. Keep shipping code, and maybe run an AI security scan on it first!"
+    },
+    {
+      "speaker": "Alex",
+      "text": "See you tomorrow for more Hacker News chaos."
+    }
+  ],
+  "estimatedDurationSeconds": 180
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "speaker": "Alex",
+    "text": "Welcome to HN Daily Digest! I'm Alex, and today's front page is absolutely wild. Cal.com just announced they're going closed source because of AI security concerns, and the HN community is NOT having it.",
+    "startTime": 0,
+    "endTime": 13.978
+  },
+  {
+    "speaker": "Sam",
+    "text": "Wait, they're blaming AI for going closed source? That sounds like the 2026 version of 'the dog ate my homework.'",
+    "startTime": 13.978,
+    "endTime": 21.083
+  },
+  {
+    "speaker": "Alex",
+    "text": "352 points, 276 comments, and basically everyone's calling BS. They claim AI can now systematically scan open source code for vulnerabilities, so they're closing up shop. But one commenter absolutely destroyed them. Quote:",
+    "startTime": 21.083,
+    "endTime": 37.848
+  },
+  {
+    "speaker": "Commenter",
+    "text": "An app like Cal.com can be vibe coded in a few evenings with a Chrome MCP server pointed to their website to figure out all the nooks and crannys.",
+    "startTime": 37.848,
+    "endTime": 48.529
+  },
+  {
+    "speaker": "Sam",
+    "text": "Oh wow. Cold but probably true. If AI can clone your app in a few evenings, maybe your moat isn't the code—it's something else entirely.",
+    "startTime": 48.529,
+    "endTime": 56.563
+  },
+  {
+    "speaker": "Alex",
+    "text": "Exactly! And speaking of things that should've happened years ago—IPv6 traffic just crossed the 50% mark according to Google's data. 511 points on HN.",
+    "startTime": 56.563,
+    "endTime": 67.337
+  },
+  {
+    "speaker": "Sam",
+    "text": "Finally! Only took what, like 30 years? But let me guess—GitHub still doesn't support IPv6?",
+    "startTime": 67.337,
+    "endTime": 74.024
+  },
+  {
+    "speaker": "Alex",
+    "text": "Bingo! Top comment goes:",
+    "startTime": 74.024,
+    "endTime": 76.207
+  },
+  {
+    "speaker": "Commenter",
+    "text": "And still, in the year of our lord 2026, GitHub does not support IPv6.",
+    "startTime": 76.207,
+    "endTime": 82.941
+  },
+  {
+    "speaker": "Sam",
+    "text": "I mean, it's Microsoft. They've been pushing IPv6 on their corporate networks for almost a decade, but GitHub? Nah, we're good with IPv4 forever apparently.",
+    "startTime": 82.941,
+    "endTime": 92.74
+  },
+  {
+    "speaker": "Alex",
+    "text": "Plot twist though—Thunderbird's team jumped into that Cal.com thread to announce their scheduling tool will ALWAYS be open source. Quote:",
+    "startTime": 92.74,
+    "endTime": 102.121
+  },
+  {
+    "speaker": "Commenter",
+    "text": "Come talk to us and build with us. We'll help you replace Cal.com.",
+    "startTime": 102.121,
+    "endTime": 106.951
+  },
+  {
+    "speaker": "Sam",
+    "text": "That's some quality opportunistic marketing right there. Strike while the iron's hot!",
+    "startTime": 106.951,
+    "endTime": 111.502
+  },
+  {
+    "speaker": "Alex",
+    "text": "Meanwhile, Cloudflare launched an AI inference platform designed specifically for agents. Much less drama, only 57 points, but honestly more interesting tech-wise.",
+    "startTime": 111.502,
+    "endTime": 122.369
+  },
+  {
+    "speaker": "Sam",
+    "text": "Yeah, everyone's building AI agent infrastructure now. Though after the Cal.com drama, I'm starting to wonder if we should be worried about AI agents scanning everyone's code for vulnerabilities.",
+    "startTime": 122.369,
+    "endTime": 133.236
+  },
+  {
+    "speaker": "Alex",
+    "text": "The security debate is fascinating. Some folks argue open source will be MORE secure because you can pool resources to audit code. Others think we're entering an AI arms race where security becomes pure proof-of-work—whoever spends more tokens wins.",
+    "startTime": 133.236,
+    "endTime": 148.933
+  },
+  {
+    "speaker": "Sam",
+    "text": "That's terrifying and probably accurate. Also making news—Apple's pushing their highest ever recycled materials in new products, and someone built ChatGPT for Excel. Because apparently we needed AI in spreadsheets too.",
+    "startTime": 148.933,
+    "endTime": 162.354
+  },
+  {
+    "speaker": "Alex",
+    "text": "Quick hits: North American English dialects are trending, someone made a new terminal pager, and there's a 90-minute guide to modern microprocessors that's getting love. Classic HN mix of drama and deep tech.",
+    "startTime": 162.354,
+    "endTime": 175.636
+  },
+  {
+    "speaker": "Sam",
+    "text": "But seriously, that Cal.com thread is a masterclass in how NOT to handle a major business pivot. The security argument might be valid, but the execution? Chef's kiss of disaster.",
+    "startTime": 175.636,
+    "endTime": 187.71
+  },
+  {
+    "speaker": "Alex",
+    "text": "That's today's HN Daily Digest. Tomorrow we'll see if Cal.com walks back their decision or doubles down. I'm betting on doubling down. I'm Alex—",
+    "startTime": 187.71,
+    "endTime": 196.673
+  },
+  {
+    "speaker": "Sam",
+    "text": "And I'm Sam. Keep shipping code, and maybe run an AI security scan on it first!",
+    "startTime": 196.673,
+    "endTime": 201.317
+  },
+  {
+    "speaker": "Alex",
+    "text": "See you tomorrow for more Hacker News chaos.",
+    "startTime": 201.317,
+    "endTime": 204.428
+  }
+]

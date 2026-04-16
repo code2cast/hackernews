@@ -1,0 +1,25 @@
+{
+  "name": "Hacker News",
+  "include": [
+    "**/*.md"
+  ],
+  "exclude": [
+    "node_modules",
+    ".git",
+    ".venv"
+  ],
+  "theme": "casual",
+  "durationMinutes": 5,
+  "cast": [
+    {
+      "name": "Host",
+      "role": "host"
+    },
+    {
+      "name": "Guest",
+      "role": "guest"
+    }
+  ],
+  "soundBites": [],
+  "defaultPodcast": "daily-digest"
+}

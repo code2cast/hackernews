@@ -1,0 +1,10 @@
+{
+  "name": "HN Weekly Deep Dive",
+  "description": "A weekly roundup of the most interesting Hacker News stories — longer discussions, deeper analysis.",
+  "theme": "technical",
+  "durationMinutes": 15,
+  "cast": [
+    { "name": "Jordan", "role": "host" },
+    { "name": "Morgan", "role": "guest" }
+  ]
+}

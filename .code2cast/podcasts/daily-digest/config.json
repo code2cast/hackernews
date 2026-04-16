@@ -1,0 +1,26 @@
+{
+  "name": "HN Daily Digest",
+  "description": "Your daily dose of Hacker News — top stories, spicy comments, and community vibes in 3 minutes.",
+  "theme": "entertaining",
+  "durationMinutes": 3,
+  "cast": [
+    {
+      "name": "Alex",
+      "role": "host",
+      "description": "Witty, fast-talking tech news anchor who sets up stories and keeps the energy high",
+      "voiceId": "TX3LPaxmHKxFdv7VOQHJ"
+    },
+    {
+      "name": "Sam",
+      "role": "guest",
+      "description": "The opinionated co-host who reacts to stories, adds hot takes, and banters with Alex",
+      "voiceId": "FGY2WhTYpPnrIDTdsKH5"
+    },
+    {
+      "name": "Commenter",
+      "role": "narrator",
+      "description": "The voice of HN commenters — reads direct quotes from comment threads in a distinct, dramatic, slightly snarky tone",
+      "voiceId": "N2lVS1w4EtoT3dr4eOWO"
+    }
+  ]
+}

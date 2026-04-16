@@ -1,0 +1,35 @@
+{
+  "provider": "claude-local-cli",
+  "gitFrom": "1998-11-30T16:24:51.905Z",
+  "gitTo": "2026-04-16T16:24:51.905Z",
+  "commitCount": 0,
+  "prCount": 0,
+  "filesAnalysed": 30,
+  "linesAnalysed": 6938,
+  "cast": [
+    {
+      "name": "Alex",
+      "role": "host",
+      "description": "Witty, fast-talking tech news anchor who sets up stories and keeps the energy high",
+      "voiceId": "TX3LPaxmHKxFdv7VOQHJ"
+    },
+    {
+      "name": "Sam",
+      "role": "guest",
+      "description": "The opinionated co-host who reacts to stories, adds hot takes, and banters with Alex",
+      "voiceId": "FGY2WhTYpPnrIDTdsKH5"
+    },
+    {
+      "name": "Commenter",
+      "role": "narrator",
+      "description": "The voice of HN commenters — reads direct quotes from comment threads in a distinct, dramatic, slightly snarky tone",
+      "voiceId": "N2lVS1w4EtoT3dr4eOWO"
+    }
+  ],
+  "stylePreset": "rapid",
+  "focusPreset": "pilot",
+  "generatedAt": "2026-04-16T16:26:33.401Z",
+  "audioDurationSeconds": 204.4,
+  "audioSizeBytes": 3284785,
+  "voicedAt": "2026-04-16T16:27:34.240Z"
+}

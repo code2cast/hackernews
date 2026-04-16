@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+news/
+.code2cast/**/segments/
+.code2cast/**/audio.mp3
