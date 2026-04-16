@@ -91,5 +91,72 @@
       "text": "See you tomorrow for more Hacker News chaos."
     }
   ],
-  "estimatedDurationSeconds": 180
+  "estimatedDurationSeconds": 180,
+  "references": [
+    {
+      "url": "https://news.ycombinator.com/item?id=47780456",
+      "title": "Cal.com is going closed source (352 points, 276 comments)",
+      "type": "discussion"
+    },
+    {
+      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "title": "Cal.com Blog: Why we're going closed source",
+      "type": "article"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=47777894",
+      "title": "IPv6 traffic crosses the 50% mark (511 points, 328 comments)",
+      "type": "discussion"
+    },
+    {
+      "url": "https://www.google.com/intl/en/ipv6/statistics.html",
+      "title": "Google IPv6 Adoption Statistics",
+      "type": "docs"
+    },
+    {
+      "url": "https://www.thunderbolt.io/",
+      "title": "Mozilla Thunderbolt — open source scheduling tool",
+      "type": "tool"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=47792538",
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "type": "discussion"
+    },
+    {
+      "url": "https://blog.cloudflare.com/ai-platform/",
+      "title": "Cloudflare Blog: AI Platform for Agents",
+      "type": "article"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=47769089",
+      "title": "Cybersecurity looks like proof of work now (488 points)",
+      "type": "discussion"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=47791855",
+      "title": "Apple accelerates eco progress with highest-ever recycled materials",
+      "type": "discussion"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=47785397",
+      "title": "ChatGPT for Excel (258 points, 165 comments)",
+      "type": "discussion"
+    },
+    {
+      "url": "https://aschmann.net/AmEng/",
+      "title": "North American English Dialects Map",
+      "type": "article"
+    },
+    {
+      "url": "https://theleo.zone/posts/pager/",
+      "title": "I made a terminal pager",
+      "type": "article"
+    },
+    {
+      "url": "https://www.lighterra.com/articles/",
+      "title": "Modern Microprocessors — A 90-Minute Guide",
+      "type": "article"
+    }
+  ]
 }
